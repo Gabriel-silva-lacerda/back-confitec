@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfitecWeb", "ConfitecWeb\ConfitecWeb.csproj", "{64CDBDF9-BB28-4219-B049-5D06D504B99D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CDBDF9-BB28-4219-B049-5D06D504B99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CDBDF9-BB28-4219-B049-5D06D504B99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CDBDF9-BB28-4219-B049-5D06D504B99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CDBDF9-BB28-4219-B049-5D06D504B99D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEF00FE1-8020-45D0-ACF9-D8989A7BC12A}
+	EndGlobalSection
+EndGlobal
